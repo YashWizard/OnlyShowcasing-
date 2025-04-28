@@ -1,6 +1,6 @@
 # Shell Assistant
 
-A local application that interprets natural language commands and executes them on a Linux system. This tool uses Ollama to understand user intent and convert natural language into shell commands.
+A local application that interprets natural language commands and executes them on a Linux system. This tool uses Ollama to understand user intent and convert natural language into shell commands.(>.< Made my me and my roommate >.<)
 
 ## Overview
 
